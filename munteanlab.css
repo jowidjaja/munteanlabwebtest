@@ -161,7 +161,7 @@ z-index:10;
       right:-300px;
       background:black;
       width:200px;
-      height:40%;
+      height:325px;
       padding-top:25px;
       z-index:99;
       margin-top:60px;
@@ -180,7 +180,7 @@ z-index:10;
       
     }
     .menu li{
-        margin-bottom:20px;
+        margin-bottom:15px;
     }
     .nav_item{
         height:50px;
